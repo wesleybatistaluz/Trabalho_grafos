@@ -1,0 +1,5 @@
+janela,Ganho GNN−MLP (F1),desvio entre dobras,dobras em que a GNN venceu,GNN − GNN embaralhada,AUC evasão GNN / MLP / Logística
+1_matricula,0.003,0.006,3,0.0,0.726 / 0.738 / 0.730
+2_financeiro,-0.004,0.009,2,0.003,0.820 / 0.828 / 0.826
+3_fim_1sem,-0.005,0.01,2,-0.01,0.916 / 0.923 / 0.928
+4_fim_2sem,0.002,0.011,3,0.002,0.942 / 0.939 / 0.948
