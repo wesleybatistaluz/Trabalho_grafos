@@ -1,0 +1,4 @@
+cenario,n,f1_gnn,comunidades,assortatividade,ari_vs_principal,max_concentracao_em_1_curso
+curso fora da distância (principal),3630,0.854,20,0.408,1.0,0.501
+curso dentro da distância,3630,0.856,18,0.418,0.361,0.559
+sem o curso 171,3452,0.872,17,0.417,,0.453

@@ -1,0 +1,5 @@
+,dif,ic95_inf,ic95_sup,p_pareado,contem_zero
+1_matricula,0.0026,-0.0047,0.0099,0.382,True
+2_financeiro,-0.0041,-0.0158,0.0075,0.383,True
+3_fim_1sem,-0.0049,-0.0169,0.0071,0.318,True
+4_fim_2sem,0.0023,-0.0116,0.0163,0.664,True

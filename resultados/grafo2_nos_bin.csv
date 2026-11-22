@@ -1,0 +1,41 @@
+fator,grupo,prevalencia,comunidade,grau,centralidade,intermediacao
+Idade: 25+,ingresso,0.269,3,24,0.615,0.027
+Dropout,desfecho,0.391,0,24,0.615,0.051
+Curso 9500,curso,0.183,0,20,0.513,0.072
+Gênero: masculino,ingresso,0.344,0,20,0.513,0.086
+1ºsem: até 50% aprovação,desempenho,0.086,0,20,0.513,0.011
+Bolsista,financeiro,0.267,1,19,0.487,0.015
+1ºsem: 0% aprovação,desempenho,0.136,1,19,0.487,0.015
+Mensalidade atrasada,financeiro,0.134,0,19,0.487,0.019
+Nota de admissão: baixa (<120),ingresso,0.296,2,18,0.462,0.131
+Idade: 17-19,ingresso,0.447,1,18,0.462,0.076
+Graduate,desfecho,0.609,0,18,0.462,0.059
+Estado civil: não solteiro,ingresso,0.119,1,18,0.462,0.019
+1ºsem: 100% aprovação,desempenho,0.426,0,17,0.436,0.057
+Curso 9991,curso,0.059,1,17,0.436,0.007
+1ºsem: nota 14+,desempenho,0.142,2,16,0.41,0.008
+1ºsem: nota 0,desempenho,0.178,0,16,0.41,0.0
+Devedor,financeiro,0.114,0,15,0.385,0.013
+1ºsem: nota 12-14,desempenho,0.463,3,15,0.385,0.123
+1ºsem: nota <12,desempenho,0.217,2,15,0.385,0.039
+Nota de admissão: alta (140+),ingresso,0.157,2,15,0.385,0.015
+Curso 9119,curso,0.029,0,14,0.359,0.0
+Curso 9238,curso,0.086,0,14,0.359,0.004
+Curso 9003,curso,0.048,1,12,0.308,0.0
+Curso 8014,curso,0.053,1,11,0.282,0.004
+Deslocado,ingresso,0.549,1,10,0.256,0.038
+Turno: noturno,ingresso,0.112,1,10,0.256,0.011
+Curso 9773,curso,0.082,3,9,0.231,0.04
+Curso 9085,curso,0.072,2,9,0.231,0.023
+Curso 171,curso,0.049,3,9,0.231,0.0
+Curso 9130,curso,0.033,0,9,0.231,0.0
+1ºsem: nenhuma unidade inscrita,desempenho,0.042,3,8,0.205,0.003
+Curso 9070,curso,0.051,3,8,0.205,0.007
+Curso 9147,curso,0.075,2,7,0.179,0.004
+Curso 9254,curso,0.058,2,6,0.154,0.005
+Idade: 20-24,ingresso,0.285,1,5,0.128,0.003
+1ºsem: 50-99% aprovação,desempenho,0.31,2,5,0.128,0.005
+Curso 9670,curso,0.061,2,4,0.103,0.0
+Curso 9853,curso,0.039,0,4,0.103,0.001
+Curso 9556,curso,0.019,2,3,0.077,0.0
+Nota de admissão: média (120-140),ingresso,0.547,1,2,0.051,0.001
